@@ -2,7 +2,6 @@
   "name": "lecture-2",
   "version": "1.0.0",
   "description": "Learning about mpn",
-  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -29,5 +28,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "reactdom": "^2.0.0"
-  }
+  },
+  "browserlists":[
+      "last 2 versions"
+    ]
+  
 }
