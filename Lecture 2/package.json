@@ -1,0 +1,27 @@
+{
+  "name": "lecture-2",
+  "version": "1.0.0",
+  "description": "Learning about mpn",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrTea7171/Namaste-React.git"
+  },
+  "keywords": [
+    "learning",
+    "growth",
+    "npm"
+  ],
+  "author": "Chaitanya Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrTea7171/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/MrTea7171/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
+}
