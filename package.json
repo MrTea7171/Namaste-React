@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Learning about mpn",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "npx parcel Lecture-3/index.html",
+    "build":"npx parcel index.html"
   },
   "repository": {
     "type": "git",
