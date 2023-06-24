@@ -4,7 +4,7 @@
   "description": "Learning about mpn",
   "scripts": {
     "test": "jest",
-    "start": "npx parcel Lecture-3/index.html",
+    "start": "npx parcel Lecture-4/index.html",
     "build":"npx parcel index.html"
   },
   "repository": {
